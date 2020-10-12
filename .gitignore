@@ -1,0 +1,10 @@
+# OS files
+.DS_Store
+._*
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+
+# Jupyter files
+.ipynb_checkpoints/
