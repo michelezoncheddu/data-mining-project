@@ -8,3 +8,6 @@
 
 # Jupyter files
 .ipynb_checkpoints/
+
+# Dataset
+customer_supermarket.csv
