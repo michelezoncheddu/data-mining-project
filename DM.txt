@@ -1,0 +1,4 @@
+753 righe con customerID e ProdDescr null (prodDescr null ==> customerID null & sale = 0)
+65080 con customerID null
+Se prodID contiene [a-z] ==> CustomerID null
+I prezzi sono tax-free
