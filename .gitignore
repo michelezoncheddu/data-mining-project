@@ -6,6 +6,9 @@
 .TemporaryItems
 .Trashes
 
+# Python cache
+__pycache__/
+
 # Jupyter files
 .ipynb_checkpoints/
 
