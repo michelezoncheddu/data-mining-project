@@ -14,3 +14,7 @@ __pycache__/
 
 # Project folders
 datasets/
+
+# SPMF files
+spmf-output.pkl
+spmf-output.txt
